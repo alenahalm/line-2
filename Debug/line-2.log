@@ -1,0 +1,3 @@
+﻿  line-2.cpp
+C:\Users\User\Desktop\HW\Programming\line\line-2\line-2\line-2.cpp(14,12): warning C4244: =: преобразование "long double" в "int", возможна потеря данных
+  line-2.vcxproj -> C:\Users\User\Desktop\HW\Programming\line\line-2\Debug\line-2.exe
